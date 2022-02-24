@@ -5,15 +5,15 @@
 
 ## Q: Which coin had the highest mean positive score?
 
-### A: Bitcoin - 0.086800
+### A: Bitcoin - 0.086800 vs. Etherum - 0.068200
 
 ## Q: Which coin had the highest compound score?
 
-### A: Ethereum - 0.836900
+### A: Ethereum - 0.836900 vs. Bitcoin - 0.77830
 
 ## Q. Which coin had the highest positive score?
 
-### A: Ethereum - 0.234000
+### A: Ethereum - 0.234000 vs. Bitcoin - 0.18500
 
 
 
