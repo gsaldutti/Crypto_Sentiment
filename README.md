@@ -1,3 +1,25 @@
+# Crypto_Sentiment
+
+# Questions
+
+
+## Q: Which coin had the highest mean positive score?
+
+### A: Bitcoin - 0.086800
+
+## Q: Which coin had the highest compound score?
+
+### A: Ethereum - 0.836900
+
+## Q. Which coin had the highest positive score?
+
+### A: Ethereum - 0.234000
+
+
+
+
+
+
 # Unit 12—Tales from the Crypto
 
 ![Stock Sentiment](Images/sentimental.jpeg)
